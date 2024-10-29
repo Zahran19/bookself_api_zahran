@@ -1,0 +1,17 @@
+{
+  "name": "bookshelf-api-zahran",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "main": "src/server.cjs",
+  "scripts": {
+    "start": "node src/server.cjs",
+    "start-dev": "nodemon src/server.cjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@hapi/hapi": "^20.1.2"
+  }
+}
